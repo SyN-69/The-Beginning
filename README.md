@@ -42,7 +42,7 @@ My brain runs on **dopamine**, **glutamate**, and **acetylcholine** — the neur
 | SI        | JM        |
 | hL        | UA        |
 | SM        | zA        |
-| rA        | SM        |
+| rA        | AM        |
 |           |           |
 
 👨‍🎓 Peers & Coursemates 
