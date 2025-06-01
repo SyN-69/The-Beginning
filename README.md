@@ -35,16 +35,6 @@ My brain runs on **dopamine**, **glutamate**, and **acetylcholine** — the neur
 
 ### 🎓 People I Admire in Academia
 
-🧑‍🏫 Professors
-|           |           |
-|-----------|-----------|
-| aN        | mM        |
-| SI        | JM        |
-| hL        | UA        |
-| SM        | zA        |
-| rA        | AM        |
-|           |           |
-
 👨‍🎓 Peers & Coursemates 
 |                       |
 |-----------------------|
@@ -89,7 +79,7 @@ Please **don’t copy, reuse, or share** anything from this repository without a
 
 ### 📜 Change Log
 
-**31-05-2025**
-- Added "People I Admire in Academia" section with initials only, grouped into Professors, Peers, and Project Collaborators
+**01-06-2025**
+- Removed Professors section from "People I Admire in Academia"
 - Improved "What I Do" section with cleaner formatting and added self-research & gaming habits
 - Included contact info (email only) for outreach
